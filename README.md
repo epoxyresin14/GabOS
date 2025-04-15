@@ -1,2 +1,3 @@
 # GabOS
-Where all the files load in from on first install
+Just a huge repository for anything i want in GabOS
+
